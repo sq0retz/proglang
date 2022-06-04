@@ -1,1 +1,7 @@
-PRINT "AAAA"
+a = 15 * (5 - 2)
+PRINT a
+IF (2 = 3) PRINT "222"
+ELSE PRINT "111"
+WHILE (a < 50) a = a + 1
+PRINT a
+IF ( 4 > 2 ) PRINT "HELLO WORLD"
